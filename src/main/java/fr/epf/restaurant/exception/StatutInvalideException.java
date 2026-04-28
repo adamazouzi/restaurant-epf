@@ -1,0 +1,8 @@
+package fr.epf.restaurant.exception;
+
+public class StatutInvalideException extends RuntimeException {
+
+    public StatutInvalideException(String message) {
+        super(message);
+    }
+}
