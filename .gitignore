@@ -177,3 +177,4 @@ dist
 CLAUDE.md
 frontend/.claude
 
+node_modules/
